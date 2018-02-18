@@ -6,3 +6,4 @@ docker run -d -v /Users/johnhorn/Documents/racer/photo_rec/sample_data_docker_vo
 # After running in background bash into it and launch jup notebook
 # docker exec -it [CONTAINER ID] bash
 # jupyter notebook --ip 0.0.0.0 --no-browser --allow-root
+# navigate to the data folder which is mapped to the host
